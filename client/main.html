@@ -1,0 +1,35 @@
+<head>
+  <title>test-optimism</title>
+</head>
+
+<body>
+  <h1>Seligman's Authentic Happiness Optimism Survey!</h1>
+
+  {{> optimism}}
+</body>
+
+<template name="optimism">
+  <form name="qf">
+    <label for="receiver">Receiver:</label>
+    <input type="text" id="receiver" name="receiver">   
+  {{#each a in opt}}
+    <p>
+    {{> entry q=a.Q n=a.No a1=a.A a2=a.B}}
+    </p>
+  {{/each}}
+  <input type='submit'>
+  </form>
+</template>
+
+<template name="entry">
+  <p>{{q}}</p>
+  <div>  
+    <input type="radio" name={{n}} id="a" value="a" checked>
+      <label for="a1">{{a1}}</label>
+  </div>
+  
+  <div>  
+    <input type="radio" name={{n}} id="b" value="b">
+      <label for="b">{{a2}}</label>
+  </div>  
+  </template>

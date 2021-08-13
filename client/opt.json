@@ -1,0 +1,257 @@
+[
+    {
+	"No":1,
+	"Q": "You and your spouse make up after a fight.",
+	"A": "I forgive him or her.",
+	"B": "I'm usually forgiving.",
+	"V": "B",
+	"ZPmG": "1"
+    },
+    {
+	"No":2,
+	"Q": "You forget your spouse's birthday",
+	"A": "I'm not good at remembering birthdays",
+	"B": "I was preoccupied with other things",
+	"V": "B",
+	"ZPmB":0
+    },
+    {
+	"No":3,
+	"Q": "You get a flower from a secret admirer",
+	"A": "He/she likes me",
+	"B": "I'm popular",
+	"V": "B",
+	"ZPmG": 0
+    },
+    {
+	"No":4,
+	"Q": "You run for a community office position and you win",
+  "A": "I devoted a lot of time and energy at campaigning",
+  "B": "I work very hard on everything I do.",
+	"V": "B",
+  "ZPvG": 0
+},
+    {
+	"No": 5,
+	"Q": "You miss an important engagement",
+  "A": "Sometimes my memory fails me.",
+  "B": "I forgot to check my appointment book",
+  "V": "B",
+  "ZPvB": 1
+    },
+    {
+	"No": 6,
+	"Q": "You and your spouse make up after a fight.",
+  "A": "I forgive him or her.",
+  "B": "I'm usually forgiving.",
+	"V": "B"
+},
+    {
+	"No": 7,
+	"Q": "You host a successful dinner",
+	"A": "I was particularly charming that night.",
+	"B": "I'm a good host",
+	"V": "B",
+	"ZPmG": 1
+    },
+    {
+	"No": 9,
+	"Q": "You and your spouse make up after a fight.",
+	"A": "I forgive him or her.",
+	"B": "I'm usually forgiving.",
+	"V": "B"
+    },
+    {
+	"No": 10,
+	"Q": "You fail an important examination.",
+	"A": "I wasn't as smart as the others taking the exam.",
+	"B": "I did not prepare well for the exam.",
+	"V": "B",
+	"ZPvB": 0
+    },
+    {
+	"No": 11,
+	"Q": "You prepared a special meal for a friend who hardly touched it.",
+	"A": "I am not a good cook.",
+	"B": "I prepared it in a rush.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 12,
+	"Q": "You lose a sporting event for which you trained for a long time.",
+	"A": "I'm not very athletic",
+	"B": "I am not good at that sport.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 13,
+	"Q": "You lose your temper with a friend.",
+	"A": "He/she is always nagging me.",
+	"B": "He/she was in a hostile mood.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 14,
+	"Q": "You are penalised for not returning your income tax forms on time.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 15,
+	"Q": "You ask a person on a date and he/she says no.",
+	"A": "I was a wreck that day.",
+	"B": "I got tongue-tied when asking.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 16,
+	"Q": "You are frequently asked for a dance at a party.",
+	"A": "I am outgoing.",
+	"B": "I was in good form that night.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 17,
+	"Q": "You do exceptionally well on a job interview.",
+	"A": "I felt very confident that time.",
+	"B": "I usually interview well.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 18,
+	"Q": "Your boss gave you too little time to complete a project and you completed it anyway.",
+	"A": "I am good at my job.",
+	"B": "I am efficient.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 19,
+	"Q": "You've been feeling run down lately.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 20,
+	"Q": "You save a person from choking to death.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },    
+    {
+	"No": 21,
+	"Q": "Your romantic partner wants to cool things off for a while.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 22,
+	"Q": "A friend says something that hurts your feeling.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 23,
+	"Q": "Your employer comes to you for advice.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 24,
+	"Q": "A friend thanks you for helping them through difficult time.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 25,
+	"Q": "Your doctor tells you that yu are in good health.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 26,
+	"Q": "Your partner takes you out on a romantic getaway.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 26,
+	"Q": "You are asked to lead an important project.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 27,
+	"Q": "You are penalised for not returning your income tax forms on time.",
+	"A": "I always put off doing my taxes.",
+	"B": "I was lazy about doing my taxes this year.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 28,
+	"Q": "You fall down a great deal during skiing.",
+	"A": "Skiing is difficult.",
+	"B": "The trails were icy.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 29,
+	"Q": "You win a prestigious award.",
+	"A": "I solved an important problem.",
+	"B": "I was the best employee.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 30,
+	"Q": "Your stocks are at an all time low.",
+	"A": "I did not know much about the business climate at the time.",
+	"B": "I made a poor choice of stocks.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 31,
+	"Q": "You gain weight over holidays and cannot lose it",
+	"A": "Diets don't work on the long run.",
+	"B": "The diet I tried did not work.",
+	"V": "A",
+	"ZPvB": 0
+    },
+    {
+	"No": 32,
+	"Q": "They won't honour your credit card at a store.",
+	"A": "I overestimate how much money I have.",
+	"B": "I sometimes forget to pay the credit card bill.",
+	"V": "A",
+	"ZPvB": 0
+    }
+]
+
